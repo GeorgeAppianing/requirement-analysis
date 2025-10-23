@@ -54,6 +54,35 @@ Requirement Analysis typically involves several structured activities that help 
 
 ---
 
+## 🧩 Types of Requirements
+Requirements in software development can be divided into several categories, each serving a specific purpose in defining the system’s behavior and performance.
+
+### 1. **Business Requirements**
+- High-level objectives that describe *why* the system is being developed.  
+- They define the business goals, needs, and expected outcomes.  
+- *Example:* Increase customer satisfaction through a faster booking system.
+
+### 2. **User Requirements**
+- Define *what* the users expect the system to do.  
+- Typically written in natural language and often illustrated with use cases or user stories.  
+- *Example:* Users should be able to reset their password via email.
+
+### 3. **Functional Requirements**
+- Specify the *functions and features* the system must provide.  
+- They define the interaction between the system and its environment.  
+- *Example:* The system shall allow users to search for properties by location, price, and availability.
+
+### 4. **Non-Functional Requirements**
+- Define *how* the system performs its functions rather than *what* it does.  
+- Includes performance, security, scalability, usability, and reliability.  
+- *Example:* The system must load search results within 2 seconds.
+
+### 5. **System Requirements**
+- Detailed technical specifications describing the hardware, software, and network configurations needed to support the system.  
+- *Example:* The application must run on Windows, macOS, and Linux operating systems.
+
+---
+
 ## 🎯 Purpose of this Repository
 The main objectives of this repository are to:
 - Explain the importance and process of requirement analysis.  
