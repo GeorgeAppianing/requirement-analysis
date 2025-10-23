@@ -35,7 +35,7 @@ Requirement Analysis is vital because:
 ## 🖼️ Example: ALX Booking System Use Case Diagram
 Below is a use case diagram illustrating a simple booking system. *(If the image does not appear, ensure the file `alx-booking-uc.png` is added to the repository’s `diagrams/` folder.)*
 
-![ALX Booking Use Case Diagram](diagrams/alx-booking-uc.png)
+![ALX Booking Use Case Diagram]([diagrams/alx-booking-uc.png](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=alx-booking-uc&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Page-1%22%20id%3D%22I0mIkTi_zyUFD1r9esRi%22%3E7VlZj5swEP41ltqHlQgkezwm5Oix266CumkfLZiAG8DIOCH019fmCEGr3ZKsScKqeSDD2GbmG4%2FHMxpkmMF2xnDkPVAHfKRrzhYZY6TrN3eaeEpGmjMG%2FUHOcBlxclavYljkDxTMYp27Jg7EtYmcUp%2BTqM60aRiCzWs8zBhN6tOW1K9LjbALzxiWjf3n3AVxuJdzbwdaxf8ExPVKyT2tGAlwOblgxB52aLLHMibIMBmlPKeCrQm%2BtF1pl3zd9IXRnWIMQt5kQfh1kSw%2Bb9Lvc%2BeXuYKn8UPw5ar4ygb76wIw0kdXDX9iKtKvkW6IzTJGyNTRUKigNSJuzKYzS2J4%2F1M8R5SuSOgKykpjDsGhX8kEH61zY8u8ScrBmC6BUIP4w48YxIuJY4g%2Fng2RGixUUHNwiXBTJv3XtulaHNVL3wKp9j11SXgpnqV0Q0bySpAuZgHbEFtcLR1R%2FAGvoBb%2Funa0JYgnAkkNxBg4Jr66TVBob%2BqQZXpai6vT3sShnSVindS%2B8PVHnAbQasRsE8QcbCCb%2Bpk1abgkTKSGhDYLr%2BrUsSB0xN83ysmS2JkGLcQ%2BlT4QytRc10RGwFqO0u2D6NptM4wiRqXzTufwW9ZVyiKJOh1nEALDHLKzFlHG27TuG9Q%2BuqB6TaC5jjkNssRSLdKhE7ST%2BlXRfCY2LcHpQQY9fVV09jrsQJd7rTr9R%2Bl6uKj%2Fm9HcQhMd3V6juz7aLwfleJMq650AL8suOSovkpx6lEHgHaPOy51pWUpMd1n5%2BQ%2BUOrynVrNmYVVZYufxH5dgdhV2w%2FS0q%2FCOz2w7hbhL8e743Cpv%2FvC07Chx2HIhNPEIByvCtmQnDEdZxp81Y4CJOS92eXq73lGwnYGoATiTt2ixoK%2FlK4p2W88o3pOqeTUoe3LeXuNqUPatcNEwc3efrnpKgijaSuVr1b7KxvZ6gMbkLw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E))
 
 ---
 
