@@ -20,6 +20,4 @@ The main purpose of this repository is to:
 
 ---
 
-**Author:** [Your Name]  
-**Created:** [Date]  
-**License:** MIT (or your preferred license)
+
