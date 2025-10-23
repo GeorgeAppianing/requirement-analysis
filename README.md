@@ -14,24 +14,43 @@ It involves understanding *what* the system should do (functional requirements) 
 
 The goal is to create a clear, agreed-upon set of requirements that guide the design, development, and testing phases of the project.
 
-### 🔍 Key Activities:
-- **Requirement Gathering:** Collecting information from stakeholders through interviews, surveys, and workshops.  
-- **Requirement Analysis:** Reviewing and refining gathered requirements for clarity and feasibility.  
-- **Requirement Documentation:** Creating formal documents like Software Requirement Specifications (SRS) and use case diagrams.  
-- **Requirement Validation:** Ensuring that documented requirements align with stakeholder needs and business goals.
-
 ---
 
 ## 💡 Why is Requirement Analysis Important?
 Requirement Analysis is important because it ensures that the development team and stakeholders share a **common understanding** of what the system should achieve.  
 
 A well-conducted requirement analysis helps to:
-- ✅ Define the **scope** of the project clearly.  
+- ✅ Clearly define the **scope** of the project.  
 - 💰 Prevent **cost overruns** and **delays** by reducing rework and misunderstandings.  
 - 📈 Ensure that the **final product meets user expectations**.  
 - 🧩 Identify potential **risks and constraints** early in the development cycle.  
 - 🔒 Improve **system quality**, **security**, and **performance** through well-defined requirements.  
 - 🤝 Strengthen collaboration and communication between technical teams and stakeholders.
+
+---
+
+## 🧭 Key Activities in Requirement Analysis
+Requirement Analysis typically involves several structured activities that help ensure all requirements are captured and validated effectively.
+
+### 1. **Requirement Gathering**
+- Collecting needs and expectations from stakeholders through interviews, surveys, workshops, and observation.  
+- Identifying both functional and non-functional requirements.  
+
+### 2. **Requirement Classification**
+- Organizing requirements into categories such as business, user, functional, and system requirements.  
+- Prioritizing requirements based on importance, feasibility, and business impact.
+
+### 3. **Requirement Analysis and Modeling**
+- Evaluating gathered requirements for consistency, completeness, and feasibility.  
+- Representing requirements using **use case diagrams**, **data flow diagrams (DFD)**, and **entity-relationship diagrams (ERD)** for better understanding.  
+
+### 4. **Requirement Documentation**
+- Creating a formal record of all requirements in the form of a **Software Requirement Specification (SRS)** document.  
+- Including detailed descriptions, diagrams, and acceptance criteria.  
+
+### 5. **Requirement Validation**
+- Reviewing requirements with stakeholders to confirm that they accurately reflect business goals and user needs.  
+- Ensuring all requirements are testable, clear, and feasible within project constraints.
 
 ---
 
